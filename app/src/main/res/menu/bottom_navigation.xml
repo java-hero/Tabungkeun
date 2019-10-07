@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/wishlist"
+        android:title="Wishlist"
+        android:icon="@drawable/babitabung"/>
+
+    <item
+        android:id="@+id/pemasukan"
+        android:title="Pemasukan"
+        android:icon="@drawable/ipemasukan"/>
+
+    <item
+        android:id="@+id/pengeluaran"
+        android:title="Pengeluaran"
+        android:icon="@drawable/ipengeluaran"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"/>
+</menu>

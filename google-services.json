@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913095064323",
+    "firebase_url": "https://tabungkeunv2.firebaseio.com",
+    "project_id": "tabungkeunv2",
+    "storage_bucket": "tabungkeunv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913095064323:android:f453ad69e083f0de0cc736",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.tabungkeun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913095064323-4kdhc05c08ek2b3hqrqvv5hon7vog0rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOwCZP4kYbaOjEMTi5Ssjd-ndKtKARq58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913095064323-4kdhc05c08ek2b3hqrqvv5hon7vog0rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

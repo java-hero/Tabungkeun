@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26344C</color>
+    <color name="colorPrimaryDark">#425777</color>
+    <color name="colorAccent">#5B75A5</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="abumuda">#F1F1F1</color>
+    <color name="pink">#D81B60</color>
+    <color name="colorGreen">#1BD844</color>
+
+    <color name="kalender">#6a839a</color>
+    <color name="bgPemasukan">#e8e8e8</color>
+    <color name="bgSaldo">#d8d6db</color>
+</resources>
